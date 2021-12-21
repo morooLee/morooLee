@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=000000&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=21262d&fontSize=90)
 
 <h2 align="center"><b>Me</b></h2>
 <p align="center">Software Quality Assurance<br />Test Automation Engineer</p>
@@ -18,7 +18,7 @@
 <h2 align="center"><b>Skills</b></h2>
 <div align="center">
 
-***Languages***
+**_Languages_**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=round&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=JavaScript&logoColor=white&link=https://developer.mozilla.org/docs/Web/JavaScript)](https://developer.mozilla.org/docs/Web/JavaScript)
@@ -26,14 +26,14 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white&link=https://www.python.org)](https://www.python.org)
 [![MySQL](https://img.shields.io/badge/MySQL-003B57?style=round&logo=MySQL&logoColor=white&link=https://www.mysql.com)](https://www.mysql.com)
 
-***Frameworks & Libraries***
+**_Frameworks & Libraries_**
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=round&logo=React&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=round&logo=Next.js&logoColor=white&link=https://nextjs.org)](https://nextjs.org)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=round&logo=NestJS&logoColor=white&link=https://nestjs.com)](https://nestjs.com)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=round&logo=GraphQL&logoColor=white&link=https://graphql.org)](https://graphql.org)
 
-***Automation Test Tools***
+**_Automation Test Tools_**
 
 [![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=round&logo=WebdriverIO&logoColor=white&link=https://webdriver.io)](https://webdriver.io)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=round&logo=Jest&logoColor=white&link=https://jestjs.io)](https://jestjs.io)

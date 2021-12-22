@@ -2,11 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=21262d&fontSize=90&desc=Github%20Profile&descSize=40&descAlignY=68)
 
-## Me
-
-Software Quality Assurance
-<br />
-Test Automation Engineer
+Software Quality Assurance<br />Test Automation Engineer
 
 [![Github Pages](https://img.shields.io/badge/Github%20Pages-222222?style=round&logo=GitHub-Pages&logoColor=white&link=https://blog.moroo.dev)](https://blog.moroo.dev)
 [![Tistory](https://img.shields.io/badge/Tistory-248BFB?style=round&logo=Thingiverse&logoColor=white&link=https://tistory.moroo.dev)](https://tistory.moroo.dev)

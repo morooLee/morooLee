@@ -1,9 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=21262d&fontSize=90)
-
-<h2 align="center"><b>Me</b></h2>
-<p align="center">Software Quality Assurance<br />Test Automation Engineer</p>
+---
+title: Github Profile
+date: '2021-12-22'
+description: 'Github Profile'
+coverImageUrl: 'https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=21262d&fontSize=90&desc=Github%20Profile&descSize=40&descAlignY=68'
+mainCategory: github
+subCategory: profile
+tags: ['github', 'profile', 'github-profiles']
+---
 
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=21262d&fontSize=90&desc=Github%20Profile&descSize=40&descAlignY=68)
+
+## Me
+
+Software Quality Assurance
+<br />
+Test Automation Engineer
 
 [![Github Pages](https://img.shields.io/badge/Github%20Pages-222222?style=round&logo=GitHub-Pages&logoColor=white&link=https://blog.moroo.dev)](https://blog.moroo.dev)
 [![Tistory](https://img.shields.io/badge/Tistory-248BFB?style=round&logo=Thingiverse&logoColor=white&link=https://tistory.moroo.dev)](https://tistory.moroo.dev)
@@ -11,12 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/moroolee-0A66C2?style=round&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/moroolee)](https://www.linkedin.com/in/moroolee)
 [![Email](https://img.shields.io/badge/moroo.lee@gmail.com-EA4335?style=round&logo=Gmail&logoColor=white&link=mailto:moroo.lee@gmail.com)](mailto:moroo.lee@gmail.com)
 
-</div>
-
-<br />
-
-<h2 align="center"><b>Skills</b></h2>
-<div align="center">
+## Skills
 
 **_Languages_**
 
@@ -43,17 +51,9 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=round&logo=Postman&logoColor=white&link=https://www.postman.com)](https://www.postman.com)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=round&logo=Jenkins&logoColor=white&link=https://www.jenkins.io)](https://www.jenkins.io)
 
-</div>
-
-<br />
-
-<h2 align="center"><b>Github</b></h2>
-<div align="center">
+## Github
 
 ![Moroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=morooLee&theme=github_dark&show_icons=true)
-
-</div>
-<div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmorooLee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

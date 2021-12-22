@@ -1,13 +1,3 @@
----
-title: Github Profile
-date: '2021-12-22'
-description: 'Github Profile'
-coverImageUrl: 'https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=21262d&fontSize=90&desc=Github%20Profile&descSize=40&descAlignY=68'
-mainCategory: github
-subCategory: profile
-tags: ['github', 'profile', 'github-profiles']
----
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=21262d&fontSize=90&desc=Github%20Profile&descSize=40&descAlignY=68)

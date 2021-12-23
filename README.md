@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=21262d&fontSize=90&desc=Github%20Profile&descSize=40&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=21262d&fontSize=90&desc=Software%20Quality%20Assurance&descSize=30&descAlignY=68)
 
 Software Quality Assurance<br />Test Automation Engineer
 
@@ -39,8 +39,8 @@ Software Quality Assurance<br />Test Automation Engineer
 
 ## Github
 
-![Moroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=morooLee&theme=github_dark&show_icons=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=morooLee&theme=nightowl&show_icons=true)](https://github.com/morooLee)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmorooLee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmorooLee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/morooLee)
 
 </div>

@@ -18,7 +18,7 @@ Software Quality Assurance<br />Test Automation Engineer
 <!-- [![MySQL](https://img.shields.io/badge/MySQL-003B57?style=round&logo=MySQL&logoColor=white&link=https://www.mysql.com)](https://www.mysql.com) -->
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=round&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=JavaScript&logoColor=white&link=https://developer.mozilla.org/docs/Web/JavaScript)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![C#](https://img.shields.io/badge/C%23-239120?style=round&logo=C-Sharp&logoColor=white&link=https://docs.microsoft.com/dotnet/csharp)](https://docs.microsoft.com/dotnet/csharp)
+[![C#](https://img.shields.io/badge/C%23-5d2b90?style=round&logo=C-Sharp&logoColor=white&link=https://docs.microsoft.com/dotnet/csharp)](https://docs.microsoft.com/dotnet/csharp)
 
 **_Frameworks & Libraries_**
 

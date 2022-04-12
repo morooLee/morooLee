@@ -1,6 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=EF4424&height=300&section=header&text=%23moroo&fontColor=21262d&fontSize=90&desc=Software%20Quality%20Assurance&descSize=30&descAlignY=68)
+<div style="width: 100%; padding-bottom: 1rem;">
+  <div style="position: relative; padding-top: 52.5%; overflow: hidden;">
+    <img
+      src="https://raw.githubusercontent.com/morooLee/morooLee/main/docs/profile-cover-image.jpeg"
+      width="1200"
+      height="1200"
+      object-fit="cover"
+      alt="Moroo Profile Cover Image"
+      style=" position: absolute; top: 0px; left: 0px; right: 0px; bottom: 0px; width: 100%; height: auto; object-fit: cover;" />
+  </div>
+</div>
 
 Software Quality Assurance<br />Test Automation Engineer
 

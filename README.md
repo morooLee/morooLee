@@ -1,16 +1,6 @@
 <div align="center">
 
-<div style="width: 100%; padding-bottom: 1rem;">
-  <div style="position: relative; padding-top: 52.5%; overflow: hidden;">
-    <img
-      src="https://raw.githubusercontent.com/morooLee/morooLee/main/profile-cover-image.jpeg"
-      width="1200"
-      height="1200"
-      object-fit="cover"
-      alt="Moroo Profile Cover Image"
-      style=" position: absolute; top: 0px; left: 0px; right: 0px; bottom: 0px; width: 100%; height: auto; object-fit: cover;" />
-  </div>
-</div>
+![Github Profile Cover Image](https://raw.githubusercontent.com/morooLee/morooLee/main/github-profile-cover-image.png)
 
 Software Quality Assurance<br />Test Automation Engineer
 

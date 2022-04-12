@@ -3,7 +3,7 @@
 <div style="width: 100%; padding-bottom: 1rem;">
   <div style="position: relative; padding-top: 52.5%; overflow: hidden;">
     <img
-      src="https://raw.githubusercontent.com/morooLee/morooLee/main/docs/profile-cover-image.jpeg"
+      src="https://raw.githubusercontent.com/morooLee/morooLee/main/profile-cover-image.jpeg"
       width="1200"
       height="1200"
       object-fit="cover"

@@ -5,8 +5,9 @@
 Software Quality Assurance<br />Test Automation Engineer
 
 [![Github Pages](https://img.shields.io/badge/Blog-000000?style=round&logo=Vercel&logoColor=white&link=https://blog.moroo.dev)](https://blog.moroo.dev)
-[![LinkedIn](https://img.shields.io/badge/moroo-0A66C2?style=round&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/moroo)](https://www.linkedin.com/in/moroo)
 [![Github](https://img.shields.io/badge/morooLee-181717?style=round&logo=Github&logoColor=white&link=https://github.com/morooLee)](https://github.com/morooLee)
+[![LinkedIn](https://img.shields.io/badge/moroo-0A66C2?style=round&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/moroo)](https://www.linkedin.com/in/moroo)
+[![Facebook](https://img.shields.io/badge/moroo.lee-1877F2?style=round&logo=Facebook&logoColor=white&link=https://www.facebook.com/moroo.lee)](https://www.linkedin.com/in/moroo)
 [![Email](https://img.shields.io/badge/moroo.lee@gmail.com-EA4335?style=round&logo=Gmail&logoColor=white&link=mailto:moroo.lee@gmail.com)](mailto:moroo.lee@gmail.com)
 
 ## Skills
